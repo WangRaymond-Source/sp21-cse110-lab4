@@ -42,8 +42,7 @@
 15. The difference between == and === is that, === will compare types first and if types are different it will automatically be false. Overall, === is similar to  == but instead it compares type first.
 16. js file in part1
 17. The code will return the list newArr which is [2,4,6]. In the code we declared 2 functions and one function take in the other function as input. in the function that takes in a function, we have a new array variable called newArr and we will run a for loop on the input array and in the loop we will run all the inputs of the inputed array in the function that was passed in and we will store the return values of the input function in the newArr array and then return the new array after for loop and we will get [2,4,6], as the input function bascially doubles a number.
-18. x
-19. 1
-    4
-    3
-    2
+18. js file in part1
+19. It will output 1 4 3 2
+
+
